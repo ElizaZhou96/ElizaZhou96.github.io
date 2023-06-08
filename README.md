@@ -9,5 +9,5 @@
 1. Generate icon using [**favicon-generator**](https://redketchup.io/favicon-generator) and upload all files to `images` folder.
 2. Update `_config.yml` for **basic settings** (Name, Email...).
 3. Uptade contents in `_pages/about.md` for **main contents** (Education, Publications...).
-4. Update `_data/navigation.yml` for main links of header.
-5. Update `_includes/head/custom.html` to change the icon of head page.
+4. Update `_data/navigation.yml` for main **links of header**.
+5. Update `_includes/head/custom.html` to change the **icon of head**.
