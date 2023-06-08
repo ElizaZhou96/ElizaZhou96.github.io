@@ -13,16 +13,13 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : Georgia; // Georgia, Times, serif;
+$serif                      : Georgia, Georgia, Georgia; // Georgia, Times, serif;
 $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$cursive                 : cursive, cursive, cursive;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
-
-/* fantasy typefaces */
-$fantasy                   : Monotype Corsiva
-
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -35,13 +32,13 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-// $global-font-family         : $serif;
+$global-font-family         : $serif;
+$header-font-family         : $cursive;
+$caption-font-family        : $serif;
+
+// $global-font-family         : $sans-serif;
 // $header-font-family         : $sans-serif;
 // $caption-font-family        : $serif;
-
-$global-font-family         : $serif;
-$header-font-family         : $fantasy;
-$caption-font-family        : $serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px

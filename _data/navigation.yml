@@ -1,25 +1,25 @@
 # main links
 main:
   - title: "About Me"
-    url: "/ElizaZhou96.github.io/#about-me"
+    url: "/#about-me"
 
   - title: "🍯News"
-    url: "/ElizaZhou96.github.io/#-news"
+    url: "/#-news"
 
   - title: "📖Education"
-    url: "/ElizaZhou96.github.io/#-educations"
+    url: "/#-education"
 
   - title: "📝Publications"
     url: "/#-publications"
 
   - title: "🏆Honors"
-    url: "/ElizaZhou96.github.io/#-honors"
+    url: "/#-honors"
 
   - title: "🌱Research Experience"
-    url: "/ElizaZhou96.github.io/#-research-experience"
+    url: "/#-research-experience"
 
   - title: "🍬Academic Services"
-    url: "/ElizaZhou96.github.io/#-academic-services"
+    url: "/#-academic-services"
 
   - title: "🍨CV"
     url: "https://www.dropbox.com/s/phb9k8pussvicgy/CV_2306.pdf?dl=0"
