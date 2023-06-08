@@ -14,7 +14,7 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Georgia, Georgia; // Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$sans-serif                 : Georgia, Georgia, Georgia; // "Trebuchet MS", Helvetica, sans-serif;
 $cursive                 : cursive, cursive, cursive;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
@@ -33,7 +33,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $serif;
-$header-font-family         : $cursive;
+$header-font-family         : $serif;
 $caption-font-family        : $serif;
 
 // $global-font-family         : $sans-serif;
