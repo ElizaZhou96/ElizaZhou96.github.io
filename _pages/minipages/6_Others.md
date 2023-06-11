@@ -19,7 +19,7 @@
 
 ## Research Assistant
 [**Jul. 2022 - Feb. 2023**] 
-- Worked on ingredients placement order \& location prediction for industrial automatic robotics.
+- Worked on ingredients placement order & location prediction for industrial automatic robotics.
 
 
 # 🍬 Academic Services
