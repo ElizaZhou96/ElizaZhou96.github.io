@@ -1,7 +1,7 @@
 # 🏆 Honors
 
 ### Award
-- *2023* &ensp;**Travel Award**&emsp; WiCV Workshop at CVPR2023 (1,200$)
+- *2023* &ensp;**Travel Award**&emsp; WiCV Workshop at CVPR2023 ($1,200)
 - *2022* &ensp;**Excellent Paper Award**&emsp; Association of Chinese Alumni (10 winners in Japan)
 - *2022* &ensp;**Research Paper Award**&emsp; Ritsumeikan University (11 winners)
 - *2021* &ensp;**[Best Poster Award](https://www.dropbox.com/s/pvz6ch5e15n4vhh/FG2021_Certificate.pdf?dl=0)**&emsp; IEEE International Conference on Automatic Face and Gesture Recognition 2021 (Top 5%)
