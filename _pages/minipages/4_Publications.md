@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 ## 📚 Survey 
-- [**CVPR 2023**-GCV]  [Vision + Language Applications: A Survey](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.html) [[**Project**](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)] [[**Poster**](https://www.dropbox.com/s/7gqngz1x6a7mqw3/%5BGCV2023%5D_Poster.png?dl=0)] [![](https://img.shields.io/github/stars/Yutong-Zhou-cv/awesome-Text-to-Image?style=social&label=Stars)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)  **Yutong Zhou** and Nobutaka Shimada
+- [**CVPR 2023**-GCV]  [Vision + Language Applications: A Survey](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.html) [[**Poster**](https://www.dropbox.com/s/7gqngz1x6a7mqw3/%5BGCV2023%5D_Poster.png?dl=0)] | [[**Project**](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)] [![](https://img.shields.io/github/stars/Yutong-Zhou-cv/awesome-Text-to-Image?style=social&label=Stars)](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)   **Yutong Zhou** and Nobutaka Shimada
 
 ## 🍽 Aesthetic Box Lunch Presentation Design
 - [**CVPR 2023**-WiCV]  [Design a Delicious Lunchbox in Style](https://arxiv.org/abs/2305.14522)  [[**Poster**](https://www.dropbox.com/s/0p8vmdbcmyr6hhe/%5BWiCV2023%5D_Poster.png?dl=0)] **Yutong Zhou**
