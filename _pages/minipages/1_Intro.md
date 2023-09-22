@@ -3,4 +3,6 @@ I am a final-year Ph.D. student at [Ritsumeikan University](https://en.ritsumei.
 My research interests are **Generative Models**, **Content Creation** and **Computational Aesthetics**.
 I am now working on Text-to-Face Synthesis & Manipulation, Aesthetic Box Lunch Design, and Ingredients Place Order & Location Prediction.
 
+<!--
 **🔥Actively looking for postdoc opportunities starting in 2023 (ෆ`꒳´ෆ)🔥**
+-->
