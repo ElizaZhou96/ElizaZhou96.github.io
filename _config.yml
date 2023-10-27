@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhou Yutong"
-  avatar           : "images/icon/android-chrome-512x512.png"
+  avatar           : "images/icon_new/android-chrome-512x512.png"
   bio              : "Ritsumeikan University"
   location         : "Japan"
   employer         :
