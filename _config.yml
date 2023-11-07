@@ -5,7 +5,7 @@
 
 # Site Settings
 title                    : "Yutong's Homepage"
-description              : "Ph.D. Candidate. Focusing on AIGC and MM."
+description              : "Postdoc Researcher." #"Ph.D. Candidate. Focusing on AIGC and MM."
 repository               : "ElizaZhou96/ElizaZhou96.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhou Yutong"
   avatar           : "images/icon_new/android-chrome-512x512.png"
-  bio              : "Ritsumeikan University"
-  location         : "Japan"
+  bio              : "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+  location         : "Müncheberg, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LaIYgqwAAAAJ"
@@ -41,7 +41,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yutong-zhou-bb743a227"
+  linkedin         : # "yutong-zhou-bb743a227"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
