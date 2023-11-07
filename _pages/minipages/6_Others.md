@@ -1,16 +1,16 @@
 # 🌱 Research Experience
 
 ## NEXT Research Fellow
-[**Apr. 2021 ~ Present**] 
+[**Apr. 2021 ~ Sep. 2023**] 
 
 - Supported by JST, the establishment of university fellowships towards the creation of science technology innovation, Grant Number JPMJFS2146.
 
 ## Assistant Academic Advisor
-[**Apr. 2020 ~ Present**]
+[**Apr. 2020 ~ Sep. 2023**]
 - Assist undergraduate students and master students in accomplishing their academic goals.
 	* Apr.2020--Apr.2021 Face-glasses Pair Composition
 	* Apr.2020--Apr.2022 Neural Sign Language Translation
-	* Sep.2022--Present Controllable Text-to-Image Generation and Manipulation
+	* Sep.2022--Sep.2023 Controllable Text-to-Image Generation and Manipulation
 
 ## Research Coach
 [**Jul. 2022 ~ Feb. 2023**] 
