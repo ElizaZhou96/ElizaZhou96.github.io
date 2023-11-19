@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhou Yutong"
   avatar           : "images/icon_new/android-chrome-512x512.png"
-  bio              : "Leibniz Centre for Agricultural Landscape Research (ZALF)"
+  bio              : "🌟 Avid photographer capturing moments and telling stories through my lens. When not coding, you'll find me exploring nature trails or experimenting with new recipes in the kitchen."
   location         : "Müncheberg, Germany"
-  employer         :
+  employer         : "Leibniz Centre for Agricultural Landscape Research (ZALF)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LaIYgqwAAAAJ"
   email            : "elizazhou96@gmail.com"
@@ -53,7 +53,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCBb13youMORuzi7PlEw9KPg"
+  youtube          : 
   wikipedia        :
 
 
