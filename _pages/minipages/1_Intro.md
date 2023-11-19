@@ -2,6 +2,8 @@ Yutong Zhou is a Postdoc Researcher at the [Leibniz Centre for Agricultural Land
 
 Her research interests focus on computer vision and deep learning, particularly in **Generative Models**, **Multi-modal Vision and Language**. She is concentrating on **Artificial Intelligence × Biodiversity × Smart agriculture**, surrounding the goals of 'Global Sustainability for Better AI' and 'AI for Best Global Sustainability'. 
 
+🌟 Avid photographer capturing moments and telling stories through her lens. When not coding, you'll find her exploring nature trails🏕️ or experimenting with new recipes in the kitchen🍳.
+
 <!--
 I am a final-year Ph.D. student at [Ritsumeikan University](https://en.ritsumei.ac.jp/), supervised by [Prof. Nobutaka Shimada](https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000224?lang=en). 
 My research interests are **Generative Models**, **Content Creation** and **Computational Aesthetics**.
