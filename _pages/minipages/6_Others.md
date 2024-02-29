@@ -32,5 +32,7 @@
 - **Fractal and Fractional** 2022
 
 ## Conference Reviewer
+- **Women in Computer Vision workshop @CVPR** 2024
+- **ACM International Conference on Multimedia** 2024
 - **IEEE International Conference on Automatic Face & Gesture Recognition** 2021,2024
 
