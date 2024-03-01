@@ -36,3 +36,6 @@
 - **ACM International Conference on Multimedia** 2024
 - **IEEE International Conference on Automatic Face & Gesture Recognition** 2021,2024
 
+## Director for General Academic Exchange Committee
+- **Association of Chinese Alumni in Japan** 2022~2023
+
