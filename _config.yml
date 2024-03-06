@@ -19,7 +19,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yutong Zhou 周禹彤"
+  name             : "Yutong Zhou<br>周禹彤"
   avatar           : "images/icon_new/android-chrome-512x512.png"
   bio              : "Leibniz Centre for Agricultural Landscape Research (ZALF)"
   location         : "Müncheberg, Germany"
