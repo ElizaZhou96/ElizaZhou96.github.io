@@ -22,3 +22,5 @@ redirect_from:
 {% include_relative minipages/6_Others.md %}
 
 {% include_relative minipages/7_Useful.md %}
+
+{% include_relative meeting.html %}
