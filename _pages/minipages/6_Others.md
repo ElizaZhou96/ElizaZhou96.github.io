@@ -14,7 +14,7 @@
 
 ## Research Coach
 [**Jul. 2022 ~ Feb. 2023**] 
-- Advising senior high school researchers from the stand view of a young researcher.
+- Advising senior high school researchers from the standpoint of a young researcher.
 - Supported by the consortium to discover and nurture Shiga-growing industries.
 
 ## Research Assistant
@@ -27,14 +27,17 @@
 
 # 🍬 Academic Services
 
+## Programme Committee
+- **European Conference on Artificial Intelligence** [<2024>](https://www.ecai2024.eu/)
+  
 ## Journal Reviewer
-- **Signal, Image and Video Processing** 2022
-- **Fractal and Fractional** 2022
+- **[Signal, Image and Video Processing](https://link.springer.com/journal/11760)** 2022
+- **[Fractal and Fractional](https://www.mdpi.com/journal/fractalfract)** 2022
 
 ## Conference Reviewer
-- **Women in Computer Vision workshop @CVPR** 2024
-- **ACM International Conference on Multimedia** 2024
-- **IEEE International Conference on Automatic Face & Gesture Recognition** 2021,2024
+- **Women in Computer Vision workshop @CVPR** [<2024>](https://sites.google.com/view/wicv-cvpr-2024/)
+- **ACM International Conference on Multimedia** [<2024>](https://2024.acmmm.org/)
+- **IEEE International Conference on Automatic Face & Gesture Recognition** [<2021>](https://iab-rubric.org/fg2021/),[<2024>](https://fg2024.ieee-biometrics.org/)
 
 ## Director for General Academic Exchange Committee
 - **Association of Chinese Alumni in Japan** 2022~2023
