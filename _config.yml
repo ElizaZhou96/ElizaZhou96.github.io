@@ -5,7 +5,7 @@
 
 # Site Settings
 title                    : "Yutong's Homepage"
-description              : "👩🏻‍🎓Postdoc Researcher@ZALF" #"Ph.D. Candidate. Focusing on AIGC and MM."
+description              : "Postdoc Researcher@ZALF" #"Ph.D. Candidate. Focusing on AIGC and MM."
 repository               : "ElizaZhou96/ElizaZhou96.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yutong Zhou<br>周禹彤"
   avatar           : "images/icon_new/android-chrome-512x512.png"
-  bio              : "© Copyright 2024 Yutong Zhou.//Last updated: April 02, 2024."
+  bio              : "Last updated: April 02, 2024."
   location         : "Müncheberg, Germany"
   employer         : 
   pubmed           : 
