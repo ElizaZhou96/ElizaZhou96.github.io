@@ -1,9 +1,14 @@
 # 🌱 Research Experience
 
+## Postdoc Researcher 
+[**Dec. 2023 ~ Now**] 
+
+- [BiodivKI Project](https://www.feda.bio/en/projects/biodivki/) - [KICS-Zert](https://www.fona.de/de/massnahmen/foerdermassnahmen/BiodivKI.php): AI and citizen science-supported monitoring of certified biodiversity.
+
 ## NEXT Research Fellow
 [**Apr. 2021 ~ Sep. 2023**] 
 
-- Supported by JST, the establishment of university fellowships towards the creation of science technology innovation, Grant Number JPMJFS2146.
+- Supported by JST, the establishment of university fellowships towards the creation of science and technology innovation, Grant Number JPMJFS2146.
 
 ## Assistant Academic Advisor
 [**Apr. 2020 ~ Sep. 2023**]
