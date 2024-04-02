@@ -23,7 +23,7 @@ author:
   avatar           : "images/icon_new/android-chrome-512x512.png"
   bio              : "Leibniz Centre for Agricultural Landscape Research (ZALF)"
   location         : "Müncheberg, Germany"
-  employer         : 
+  employer         : <font color=gray>"© Copyright 2024 Yutong Zhou. Last updated: April 02, 2024."</font>
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LaIYgqwAAAAJ"
   email            : "Yutong.Zhou@zalf.de"
@@ -49,12 +49,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/Yutong96Sweet"
   vine             :
   weibo            :
   xing             :
   youtube          : 
-  wikipedia        :
+  Wikipedia        : 
 
 
 # Reading Files
