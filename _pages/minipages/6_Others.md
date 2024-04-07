@@ -1,7 +1,7 @@
 # 🌱 Research Experience
 
 ## Postdoc Researcher 
-[**Dec. 2023 ~ Now**] 
+[**Dec. 2023 ~ Nov. 2024**] 
 
 - [BiodivKI Project](https://www.feda.bio/en/projects/biodivki/) - [KICS-Zert](https://www.fona.de/de/massnahmen/foerdermassnahmen/BiodivKI.php): AI and citizen science-supported monitoring of certified biodiversity.
 
