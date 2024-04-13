@@ -32,7 +32,7 @@
 
 # 🍬 Academic Services
 
-## Organizer 
+## Organizer/Super Volunteer 
 - **Women in Machine Learning (WiML) Social @ [ICLR](https://iclr.cc/)** [<◻2024>](https://sites.google.com/view/wicv-cvpr-2024/)
 
 ## Programme Committee
