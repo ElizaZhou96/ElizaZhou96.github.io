@@ -45,7 +45,7 @@
 ## Conference Reviewer
 - **AI for Visual Arts Workshop and Challenges (AI4VA) @ [ECCV](https://eccv.ecva.net/)** [<◻2024>](https://sites.google.com/view/ai4vaeccv2024/home)
 - **Out Of Distribution Generalization in Computer Vision (OOD-CV) workshop @ [ECCV](https://eccv.ecva.net/)** [<◻2024>](https://www.ood-cv.org/)
-- **Women in Computer Vision workshop (WiCV) @ [CVPR](https://cvpr.thecvf.com/)** [<◻2024>](https://sites.google.com/view/wicv-cvpr-2024/)
+- **Women in Computer Vision workshop (WiCV) @ [CVPR](https://cvpr.thecvf.com/)** [<◻2024>](https://sites.google.com/view/wicv-cvpr-2024/) @ [**ECCV**](https://eccv.ecva.net/) [<◻2024>](https://sites.google.com/view/wicveccv2024/home)
 - **ACM International Conference on Multimedia (ACM MM)** [<◻2024>](https://2024.acmmm.org/)
 - **IEEE International Conference on Automatic Face & Gesture Recognition (FG)** [<◻2021>](https://iab-rubric.org/fg2021/),[<◻2024>](https://fg2024.ieee-biometrics.org/)
 
