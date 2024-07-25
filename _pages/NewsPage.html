@@ -40,18 +40,23 @@
             border-radius: 8px;
             border: 4px solid transparent; /* Adjust size */
             background-clip: content-box;
-            background-image: url('_pages/pig.png'); /* Replace with your image URL */
+            background-image: url('images/sparks/pig.png'); /* Replace with your image URL */
             background-size: contain; /* Scale the image */
         }
         .scrollable::-webkit-scrollbar-thumb:hover {
-            background-image: url('_pages/graduation.png'); /* Optional: different image on hover */
+            background-image: url('images/sparks/graduation.png'); /* Optional: different image on hover */
         }
 	.corner-image {
             position: fixed;
+	    z-index: -1;
             right: 10px; 
             bottom: 10px; 
             width: 100px; 
-            height: auto; }
+            height: auto; 
+	    background-size: contain;}
+	.corner-image:hover {
+            background-image: url('images/sparks/graduation.png'); 
+        }
     </style>
 </head>
 <body>
@@ -71,6 +76,6 @@
             </ul>
         </div>
     </div>
- <img src="_pages/pig.png" alt="Decorative Image" class="corner-image">
+ <img src="images/sparks/pig.png" alt="Decorative Image" class="corner-image">
 </body>
 </html>
