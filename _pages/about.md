@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative minipages/1_Intro.md %}
 
-{% include_relative minipages/2_News.md %}
+{% include_relative NewsPage.html %}
 
 {% include_relative minipages/3_Education.md %}
 
