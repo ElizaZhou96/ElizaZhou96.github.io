@@ -16,7 +16,20 @@ layout: compress
 
     <div id="main" role="main">
       {% include sidebar.html %}
-    
+
+    <style>
+        .scrollable-content {
+            width: 100%;
+            height: 500px; 
+            overflow-y: scroll;
+            padding: 10px;
+            border: 1px solid #ccc; 
+            box-sizing: border-box;}
+    </style>
+    <div class="scrollable-content">
+            {% include news.md %}
+    </div>
+      
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
