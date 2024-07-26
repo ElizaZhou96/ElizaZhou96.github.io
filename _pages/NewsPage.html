@@ -15,6 +15,7 @@
             max-width: 800px;
             margin: 0 auto;
             padding: 10px;
+			z-index: 1;
             background-color: #fff;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
@@ -52,12 +53,8 @@
             bottom: 10px; 
             width: 100px; 
             height: auto; 
-	    background-size: contain;
-	    background-repeat: no-repeat; 
-	    transition: background-image 0.3s ease-in-out;}
-	.corner-image:hover {
-            background-image: url('images/sparks/love.png'); 
-        }
+			background-size: contain;
+			background-repeat: no-repeat;}
     </style>
 </head>
 <body>
@@ -77,6 +74,16 @@
             </ul>
         </div>
     </div>
-<img src="images/sparks/pig.png" alt="Decorative Image" class="corner-image">
+    <img src="images/sparks/pig.png" alt="Default Image" class="corner-image" id="cornerImg">
+	
+	<script>
+        const imgElement = document.getElementById('cornerImg');
+        imgElement.addEventListener('mouseover', function() {
+            imgElement.src = 'images/sparks/love.png';
+        });
+        imgElement.addEventListener('mouseout', function() {
+            imgElement.src = 'images/sparks/pig.png';
+        });
+    </script>
 </body>
 </html>
