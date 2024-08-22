@@ -43,6 +43,7 @@
 - **[Fractal and Fractional](https://www.mdpi.com/journal/fractalfract)** 2022
 
 ## Conference Reviewer
+- [Ethics Reviewer] **Neural Information Processing Systems (NeurIPS)** [<2024>](https://neurips.cc/Conferences/2024)
 - **AI for Visual Arts Workshop and Challenges (AI4VA) @ [ECCV](https://eccv.ecva.net/)** [<2024>](https://sites.google.com/view/ai4vaeccv2024/home)
 - **Out Of Distribution Generalization in Computer Vision (OOD-CV) workshop @ [ECCV](https://eccv.ecva.net/)** [<2024>](https://www.ood-cv.org/)
 - **Women in Computer Vision workshop (WiCV) @ [CVPR](https://cvpr.thecvf.com/)** [<2024>](https://sites.google.com/view/wicv-cvpr-2024/) @ [**ECCV**](https://eccv.ecva.net/) [<2024>](https://sites.google.com/view/wicveccv2024/home)
