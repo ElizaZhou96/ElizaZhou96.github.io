@@ -1,6 +1,7 @@
 # 🏆 Honors
 
 ### Award
+- *2024* &ensp;**Travel Award**&emsp; WiML Workshop at NeurIPS ($1,685)
 - *2023* &ensp;**Travel Award**&emsp; WiCV Workshop at CVPR2023 ($1,200)
 - *2022* &ensp;**Excellent Paper Award**&emsp; Association of Chinese Alumni (10 winners in Japan)
 - *2022* &ensp;**Research Paper Award**&emsp; Ritsumeikan University (11 winners)
