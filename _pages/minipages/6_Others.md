@@ -32,7 +32,11 @@
 
 # 🍬 Academic Services
 
-## Organizer/Super Volunteer 
+## Invited Talk
+- **Science For All: Diverse Voices on The Box @ [Berlin Science Week](https://berlinscienceweek.com/)** [[Website]](https://berlinscienceweek.com/programme/science-all-diverse-voices-box)
+    - Soapbox Science Berlin, LGBTQ+ STEM Berlin (2 November,2024)
+
+## Organizer
 - **Women in Machine Learning (WiML) Social @ [ICLR](https://iclr.cc/)** [<2024>](https://sites.google.com/view/wicv-cvpr-2024/)
 
 ## Programme Committee
