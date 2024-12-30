@@ -1,7 +1,7 @@
 # 📝 Publications 
 
 ## 🌾Agriculture and Biodiversity
-- [**ECCV 2024**-CVPPA]  [AgriBench: A Hierarchical Agriculture Benchmark for Multimodal Large Language Models]() [[**Dataset**](https://github.com/Yutong-Zhou-cv/AgriBench)] 
+- [**ECCV 2024**-CVPPA]  [AgriBench: A Hierarchical Agriculture Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2412.00465) [[**Dataset**](https://github.com/Yutong-Zhou-cv/AgriBench)] 
   - **Yutong Zhou** and Masahiro Ryo
 
 ## 📚 Survey 
