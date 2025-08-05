@@ -1,6 +1,8 @@
 # 📝 Publications 
 
 ## 🌾Agriculture and Biodiversity
+- [**ECAI 2025**-AISE]  [From Images to Insights: Explainable Biodiversity Monitoring with Plain Language Habitat Explanations](https://arxiv.org/pdf/2506.10559) [[**Code**](https://github.com/Yutong-Zhou-cv/BioX)] 
+  - **Yutong Zhou** and Masahiro Ryo
 - [**ECCV 2024**-CVPPA]  [AgriBench: A Hierarchical Agriculture Benchmark for Multimodal Large Language Models](https://arxiv.org/abs/2412.00465) [[**Dataset**](https://github.com/Yutong-Zhou-cv/AgriBench)] 
   - **Yutong Zhou** and Masahiro Ryo
 
