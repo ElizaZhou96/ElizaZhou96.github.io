@@ -6,8 +6,8 @@ main:
   # - title: "🍯News"
   # url: "/#-news"
 
-  - title: "🍨CV"
-    url: "https://www.dropbox.com/scl/fi/t5omuokmn2hguq34yiohh/CV_2602.pdf?rlkey=zswk9f9gqyxrn1ihxjs0azetu&st=ypymnjj9&dl=0"
+  # - title: "🍨CV"
+  #   url: "https://www.dropbox.com/scl/fi/t5omuokmn2hguq34yiohh/CV_2602.pdf?rlkey=zswk9f9gqyxrn1ihxjs0azetu&st=ypymnjj9&dl=0"
 
   - title: "📖Education"
     url: "/#-education"
