@@ -107,3 +107,77 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ==========================================================================
+   Final forced theme override
+   ========================================================================== */
+
+html,
+body,
+.initial-content,
+#main,
+.page,
+.page__inner-wrap,
+.archive,
+.archive__subtitle,
+.layout--home,
+.layout--single,
+.layout--archive,
+.entries-list,
+.list__item,
+.archive__item,
+.sidebar,
+.sidebar__right,
+.author__content,
+.author__urls-wrapper,
+.masthead,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
+  background: #FFFDFB !important;
+  background-color: #FFFDFB !important;
+}
+
+.page__footer,
+.page__footer footer,
+footer {
+  background: #FEDFE1 !important;
+  background-color: #FEDFE1 !important;
+}
+
+body {
+  color: #734338 !important;
+}
+
+a {
+  color: #B5495B !important;
+}
+
+a:hover {
+  color: #904840 !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title,
+.author__name {
+  color: #B5495B !important;
+}
+
+.masthead,
+.page__footer {
+  border-color: #E8C8C4 !important;
+}
+
+table,
+thead,
+tbody,
+tr,
+td,
+th {
+  border-color: #E8C8C4 !important;
+}
+
+thead {
+  background: #FEDFE1 !important;
+}
