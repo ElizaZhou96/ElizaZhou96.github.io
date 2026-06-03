@@ -53,27 +53,44 @@ $type-size-8                : 0.625em;  // ~10px
 
 /*
    Colors
-   ========================================================================== */
+   ==========================================================================
+ */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+/* Main Palette */
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$primary-color              : #B5495B;   // Japanese plum red
+$secondary-color            : #A3B18A;   // sage green
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #224b8d;
-// $info-color                 : #52adc8;
+/* Neutrals */
+
+$gray                       : #8A5A50;
+$dark-gray                  : #734338;
+$darker-gray                : #4F2F29;
+
+/* Backgrounds */
+
+$light-gray                 : #E8C8C4;
+$lighter-gray               : #FEDFE1;
+
+$body-color                 : #FFFDFB;
+$background-color           : #FFFDFB;
+
+/* Code blocks */
+
+$code-background-color      : #FFF8F4;
+$code-background-color-dark : #F4E6E0;
+
+/* Text */
+
+$text-color                 : #734338;
+$border-color               : #E8C8C4;
+
+/* Semantic colors */
+
+$success-color              : #A3B18A;
+$warning-color              : #D9CD90;
+$danger-color               : #B5495B;
+$info-color                 : #B5495B;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -99,12 +116,13 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
+$link-color                 : #B5495B;
+$link-color-hover           : #904840;
+$link-color-visited         : #734338;
+
+$masthead-link-color        : #734338;
+$masthead-link-color-hover  : #B5495B;
 
 /*
    Breakpoints
