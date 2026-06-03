@@ -455,3 +455,45 @@ code {
   background-color: #FFF8F4;
   border-color: #E8C8C4;
 }
+
+/* Force warm page backgrounds */
+
+html {
+  background-color: #FFFDFB !important;
+}
+
+body {
+  background-color: #FFFDFB !important;
+}
+
+.initial-content,
+#main,
+.page,
+.page__inner-wrap,
+.archive,
+.layout--single,
+.layout--archive,
+.layout--home {
+  background-color: #FFFDFB !important;
+}
+
+.sidebar,
+.sidebar__right,
+.author__content,
+.author__urls-wrapper,
+.author__urls {
+  background-color: #FFFDFB !important;
+}
+
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
+  background-color: #FFFDFB !important;
+}
+
+.page__footer,
+.page__footer footer {
+  background-color: #FEDFE1 !important;
+}
