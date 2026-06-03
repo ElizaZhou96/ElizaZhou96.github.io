@@ -320,3 +320,138 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* ==========================================================================
+   Custom warm pink academic theme
+   ========================================================================== */
+
+body {
+  background-color: #FFFDFB;
+  color: #734338;
+}
+
+a {
+  color: #B5495B;
+
+  &:hover {
+    color: #904840;
+  }
+
+  &:visited {
+    color: #734338;
+  }
+}
+
+.masthead {
+  background-color: #FFFDFB;
+  border-bottom: 1px solid #E8C8C4;
+}
+
+.greedy-nav {
+  background: #FFFDFB;
+
+  a {
+    color: #734338;
+
+    &:hover {
+      color: #B5495B;
+    }
+  }
+}
+
+.page,
+.page__inner-wrap,
+.archive,
+.sidebar {
+  color: #734338;
+}
+
+.page__title,
+.archive__item-title,
+.author__name {
+  color: #B5495B;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  color: #B5495B;
+}
+
+.page__content strong {
+  color: #734338;
+}
+
+.sidebar {
+  a {
+    color: #B5495B;
+
+    &:hover {
+      color: #904840;
+    }
+  }
+}
+
+.author__avatar img {
+  border: 3px solid #FEDFE1;
+}
+
+.author__urls-wrapper button {
+  background-color: #B5495B;
+  color: #fff;
+  border: none;
+
+  &:hover {
+    background-color: #904840;
+  }
+}
+
+.btn,
+.btn--primary {
+  background-color: #B5495B;
+  color: #fff;
+
+  &:hover {
+    background-color: #904840;
+    color: #fff;
+  }
+}
+
+.notice,
+.notice--info {
+  background-color: #FEDFE1;
+  border-left: 4px solid #B5495B;
+  color: #734338;
+}
+
+thead {
+  background-color: #FEDFE1;
+}
+
+th {
+  color: #734338;
+}
+
+td,
+th {
+  border-color: #E8C8C4;
+}
+
+footer,
+.page__footer {
+  background-color: #FEDFE1;
+  color: #734338;
+  border-top: 1px solid #E8C8C4;
+
+  a {
+    color: #B5495B;
+  }
+}
+
+.highlight,
+pre,
+code {
+  background-color: #FFF8F4;
+  border-color: #E8C8C4;
+}
